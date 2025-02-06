@@ -4,6 +4,7 @@ public class Accept {
 	
 	{
 		System.out.println("hrllo");
+		
 	}
 
 }
